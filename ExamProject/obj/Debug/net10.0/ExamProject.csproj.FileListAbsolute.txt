@@ -12,3 +12,4 @@ C:\Users\Evert\Desktop\UNAH\ExamenU1VillamilEverth\ExamProject\obj\Debug\net10.0
 C:\Users\Evert\Desktop\UNAH\ExamenU1VillamilEverth\ExamProject\obj\Debug\net10.0\ExamProject.pdb
 C:\Users\Evert\Desktop\UNAH\ExamenU1VillamilEverth\ExamProject\obj\Debug\net10.0\ExamProject.genruntimeconfig.cache
 C:\Users\Evert\Desktop\UNAH\ExamenU1VillamilEverth\ExamProject\obj\Debug\net10.0\ref\ExamProject.dll
+C:\Users\Evert\Desktop\UNAH\ExamenU1VillamilEverth\ExamProject\obj\Debug\net10.0\ExamProject.sourcelink.json
