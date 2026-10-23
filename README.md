@@ -1,10 +1,8 @@
 <<<<<<< HEAD
 # ISC-103-Examen-U1-VillamilEverth.
 Examein Unidad I - POO 
-=======
-##POO EXAMEN UNIDAD 1 
-#Everth Armando Villamil Ruiz - 20152100055
->>>>>>> a6b4a8e (Se agregaron los archivos desde el ejercicio 1 al 2)
+
+
 Parte única — Ejercicios prácticos (65 puntos)
 Ejercicio 1 — Cotizador de envíos · 10 puntos
 Una empresa de mensajería cobra el envío según la zona de destino, el peso del paquete, el tipo de servicio y el valor
@@ -92,3 +90,7 @@ Requisitos:
 ● Use List<string>, List<int> y List<decimal>; recorra las listas con for o foreach.
 ● Use Contains e IndexOf para buscar productos y valide todas las entradas.
 ● Muestre los montos con dos decimales y formato de moneda.
+=======
+##POO EXAMEN UNIDAD 1 
+#Everth Armando Villamil Ruiz - 20152100055
+>>>>>>> a6b4a8e (Se agregaron los archivos desde el ejercicio 1 al 2)
