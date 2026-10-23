@@ -28,7 +28,6 @@ do
                 {
                     case 1:
                         cotizador.Cotizar();
-                        Console.Clear();
                         break;
 
                     case 2:
